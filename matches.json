@@ -5,15 +5,15 @@
       "nome": "Catar",
       "imagem":"TODO"
       },
-   "mandante":{ 
+   "mandante": { 
     "nome":"Senegal",
     "forca": 3,
     "imagem":"TODO"
    },
-    "visitante"{
+    "visitante": {
     "nome":"Holanda",
     "forca": 4,
     "imagem":"TODO"
-  }
-  }
+    }
+   }
   ]
