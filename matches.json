@@ -1,1 +1,19 @@
-
+[
+  {
+  "descricao": "Copa do Mundo 2022",
+    "local": {
+      "nome": "Catar",
+      "imagem":"TODO"
+      },
+   "mandante":{ 
+    "nome":"Senegal",
+    "forca": 3,
+    "imagem":"TODO"
+   },
+    "visitante"{
+    "nome":"Holanda",
+    "forca": 4,
+    "imagem":"TODO"
+  }
+  }
+  ]
