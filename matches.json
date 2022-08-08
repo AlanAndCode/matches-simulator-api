@@ -1,17 +1,17 @@
 [
   {
-  "descricao": "Copa do Mundo 2022",
+  "descricao": "Eliminatorias Copa 2022",
     "local": {
-      "nome": "Catar",
+      "nome": "Maracanã",
       "imagem":"TODO"
       },
    "mandante": { 
-    "nome":"Senegal",
-    "forca": 3,
+    "nome":"Brasil",
+    "forca": 5,
     "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/255px-Flag_of_Senegal.svg.png"
    },
     "visitante": {
-    "nome":"Holanda",
+    "nome":"Argentina",
     "forca": 4,
     "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfPncTHUACyX_yfXEOj1HnpoY4L-9hu-ibwihYVMO2g&s"
     }
