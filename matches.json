@@ -1,29 +1,36 @@
 [
-  { 
-    "descricao": "Eliminatórias Copa 2022",
+  {
+    "descricao": "Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQChgA5EF_bpd6atyzgQnwntWYR7i_6RLQLflPEeLCbQ&s"
     },
     "mandante": {
-      "nome": "Brasil",
-      "estrelas": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "nome": "Senegal",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/sn.png"
     },
     "visitante": {
-      "nome": "Argentina",
+      "nome": "Holanda",
       "estrelas": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp"
+    }
+  },
+  {
+    "descricao": "Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://live.staticflickr.com/3173/2941621090_15e2b9ff4f_b.jpg"
     },
     "mandante": {
-      "nome": "Brasil",
-      "estrelas": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "nome": "Qatar",
+      "estrelas": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/qa.webp"
     },
     "visitante": {
-      "nome": "Argentina",
-      "estrelas": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
-    },
-  }
+      "nome": "Equador",
+      "estrelas": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp"
+    }
+  } 
 ]
